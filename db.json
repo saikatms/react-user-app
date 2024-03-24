@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Jana Stracke",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Metal Fish",
+      "id": 1
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79312",
+      "id": 1
+    }
+  ]
+}
